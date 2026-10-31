@@ -1,0 +1,1205 @@
+﻿//English
+[Principal Menu]
+Home
+Players
+Coaches
+Teams
+Transfers
+Call to National Team
+Nationals
+Competitions
+Regulation Competition
+Regulation
+Entry Competition
+Entry
+Stadiums
+Balls
+Boots
+Gloves
+Advanced
+Rosters
+Appearances
+Player assignments
+Formations
+Kits
+Player
+Player - appearance
+Players from team
+Player - appearance from team
+Team
+Roster
+Formation
+Countries
+Competition
+
+[Generals]
+Save
+Close
+Exit
+Apply
+Cancel
+Find
+Clean
+New
+Clone
+Delete
+Help
+Shortcut keys
+Edit
+Options
+Language
+Yes
+No
+On
+Off
+OK
+Export
+Import
+All
+None
+General
+Index
+Characteristics
+Update
+Copy
+Paste
+Paste skills
+Paste appearance
+Tools
+Special characters
+Empty
+
+[Advanced options]
+Global Fuctions
+Repeat players
+Correct fake names
+Filter
+Apply
+Correct
+Active
+Select All
+Deselect All
+Open file
+Include
+Inactive
+Id fake
+Name fake
+Id real
+Name real
+Shirt name
+Other stats
+Abilities
+GK Abilities
+Player skills
+COM Playing Styles
+Position
+Team
+Nationality
+Competition
+Style Playing
+Reputation
+Age
+Stat
+Operation
+Value
+True
+False
+Summary
+Order by
+Criterion
+Change names
+Title
+Uppercase
+Cancel filter
+Edit
+Fake Players
+Change ID
+Search all
+Search repeated players
+Search unique players
+
+[Load files]
+Load files
+Load EDIT file
+Load BIN files
+Folder
+Assign url
+
+[Players titles]
+General
+General/Abilities
+Appearance
+Clubs
+Nationals
+Positions
+Abilities
+COM Playing Styles
+Player skills
+Motions
+Rating
+Abilities adjust
+COM Play. Styles
+Player Skills
+
+[Player General Data]
+ID_Player
+ID_Player HEX
+Name
+Japanese name
+Club Shirt
+National Shirt
+Commentary
+Country
+2nd Country
+Height
+Weight
+Age
+Foot
+Style Playing
+Position
+Club
+Selection
+Edit player
+PLA
+Overall
+Reputation
+Attitude
+Youth Team
+Owner Team
+Contract Until
+Loan Until
+Market Value
+National Caps
+In EDIT
+Hand
+Legend
+Winner of Golden Ball
+
+[Foot]
+R
+L
+Right foot
+Left foot
+
+[Positions]
+GK
+CB
+LB
+RB
+DMF
+CMF
+LMF
+RMF
+AMF
+LWF
+RWF
+SS
+CF
+
+[Abilities]
+Offensive Awareness
+Ball Control
+Dribbling
+Tight Possession
+Low Pass
+Lofted Pass
+Finishing
+Heading
+Place Kicking
+Curl
+Speed
+Acceleration
+Kicking Power
+Jump
+Physical Contact
+Balance
+Stamina
+Defensive Awareness
+Ball Winning
+Aggression
+GK Awareness
+GK Catching
+GK Clearing
+GK Reflexes
+GK Reach
+Weak Foot Usage
+Weak Foot Acc.
+Form
+Injury Resistance
+
+[Special abilities]
+Trickster
+Mazing Run
+Speeding Bullet
+Incisive Run
+Long Ball Expert
+Early Cross
+Long Ranger
+Scissors Feint
+Double Touch
+Flip Flap
+Marseille Turn
+Sombrero
+Cross Over Turn
+Cut Behind And Turn
+Scotch Move
+Step On Skill control
+Heading
+Long Range Drive
+Chip shot control
+Long Range Shot
+Knuckle Shot
+Dipping Shots
+Rising Shots
+Acrobatic Finishing
+Heel Trick
+First-time Shot
+One-touch Pass
+Through Passing
+Weighted Pass
+Pinpoint Crossing
+Outside Curler
+Rabona
+No Look Pass
+Low Lofted Pass
+GK Low Punt
+GK High Punt
+Long Throw
+GK Long Throw
+Penalty Specialist
+GK Penalty Saver
+Gamesmanship
+Man Marking
+Track Back
+Interception
+Acrobatic Clear
+Captaincy
+Super-sub
+Fighting Spirit
+
+[Movements]
+Celebration 1
+Celebration 2
+Drib. - Hunching
+Drib. - Arm Move.
+Run. - Hunching
+Run. - Arm Move.
+Corner Kicks
+Free Kicks
+Penalty Kick
+Dribbling
+
+[Playing Style]
+N/A
+Goal Poacher
+Dummy Runner
+Fox in the Box
+Prolific Winger
+Classic No.10
+Hole Player
+Box-to-Box
+Anchor Man
+The Destroyer
+Extra Frontman
+Offensive Full-back
+Defensive Full-back
+Target Man
+Creative Playmaker
+Build Up
+Offensive Goalkeeper
+Defensive Goalkeeper
+Roaming Flank
+Cross Specialist
+Orchestrator
+Full-back Finisher
+Solid Player
+
+[Appearance]
+Face
+Edit face
+Edit hair
+Edit Physique
+Edit Strip
+New appearance
+Remove appearance
+Link
+Skin Colour/Head Ratio
+Eyes
+Forehead/Brows
+Nose
+Mouth
+Facial Hair
+Cheeks/Chin/Jaw
+Ears
+Hairstyle
+Physique
+Strip Style
+
+Skin Colour
+Head Length
+Head Width
+Head Depth
+Face Height
+Face Size
+
+Upper Eyelid Type 
+Bottom Eyelid Type 
+Eye Height  
+Horizontal Eye Position 
+Iris Colour  
+Pupil Size  
+Upper Eyelid Ht. (Inner)
+Upper Eyelid Wd. (Inner)
+Upper Eyelid Ht. (Outer)
+Upper Eyelid Wd. (Outer)
+Inner Eye Height
+Inner Eye Position 
+Eye Corner Height 
+Outer Eye Position
+Bottom Eyelid Height 
+Eye Depth  
+
+Forehead
+Eyebrow Type
+Eyebrow Thickness
+Eyebrow Style
+Eyebrow Density
+Eyebrow Colour
+Inner Eyebrow Height
+Brow Width
+Outer Eyebrow Height
+Temple Width
+Eyebrow Depth
+
+Nose Type  
+Laughter Lines
+Nose Height  
+Nostril Width
+Nose Width  
+Nose Tip Depth
+Nose Depth
+
+Upper Lip Type 
+Lower Lip Type 
+Mouth Position  
+Lip Size  
+Lip Width  
+Mouth Corner Height
+Mouth Depth  
+
+Facial Hair Type
+Facial Hair Colour
+Thickness
+
+Cheek Type
+Neck Line Type
+Cheekbones
+Chin Height
+Chin Width
+Jaw Height
+Jawline
+Chin Depth
+
+Ear Length  
+Ear Width  
+Ear Angle  
+
+[Hairstyle]
+Predetermined
+Skin
+Very short
+Short
+Medium
+Large
+Special
+Skin - Special
+Straight
+Wavy
+Permed
+Dreadlocks
+Overall - Style
+Overall - Length
+Overall - Wave Level
+Overall - Hair Variation
+Font - Style
+Font - Parted
+Font - Hairline
+Font - Forehead Width
+Side/Back - Style
+Side/Back - Cropped
+Hair Colour
+Accessories
+Accessory Colour
+
+[Physique]
+Neck Length
+Neck Size
+Shoulder Height
+Shoulder Width
+Chest Measurement
+Waist Size
+Arm Size
+Thigh Size
+Calf Size
+Leg Length
+Arm Length
+
+[Strip Style]
+Boots
+Goalkeeper’s Gloves
+Wrist taping
+Wrist Tape Colour
+Ankle Taping
+Player Gloves
+Colour
+Undershorts
+Sleeves
+Shirttail
+Sock Length
+Long-Sleeved Inners
+
+[Show Appearance]
+No
+Yes
+Right
+Left
+Both
+Kit color
+White
+Black
+Beige
+Winter
+Summer No / Winter No
+Summer No / Winter Long
+Summer Short / Winter Short
+Summer Short / Winter Long
+Tucked
+Untucked
+Normal
+Short
+Long
+Medium
+Swan neck
+Dry
+Mohican
+Afro
+Dreadlocks
+Braided
+Special
+Shaven
+Very Short
+Up
+Down
+Combed Back
+Off
+Left 2
+Left 1
+Centre
+Right 1
+Right 2
+Narrow
+Wide
+Reduce Body
+Shorter Sides
+Cropped
+
+[Coaches Titles]
+ID_Coach
+Name
+Default Name
+Japanese name
+Country
+Edit name
+Edit country
+Edit photo
+Edit internal
+Photo
+Photo file
+Adaptability
+
+[Teams titles]
+Teams by group
+Others
+Team Data
+Names
+Colours
+Rivals
+Banners
+Countries
+Stadium
+Emblem
+Edit stadium
+Anthem
+ID_Team
+Name
+Short
+Country
+Commentary
+Coach
+Coach name
+Coach country
+New coach
+Parent team
+Feeder team
+Rival
+Banner
+Sponsors
+Sponsors file
+Sponsor col.
+Kit
+Update Id
+Stadium Name
+Stadium file
+Emblem file
+Players licensed
+Kits licensed
+Classic team
+National
+Fake
+Edit team
+Edit emblem
+Edit kits
+Edit stad. name
+Edit stadium file
+Edit sponsors
+Edit sponsor col
+Edit sponsor file
+Team colour
+Turf Pattern
+Sideline Colour
+Seat Colour
+Goal Style
+Net Pattern
+Goal Netting Design
+Goal Net. Col.
+Has Anthem
+Standing Style
+Players Singing
+Standing Angle
+N/A
+Handsbehindback
+Handsoverheart
+Hugs
+Holdinghands
+N/A
+Off
+On
+N/A
+Straight
+45 degree
+Non Playable
+None
+Other European Teams
+Other Latin America Teams
+Other Clubs Africa
+Classic Teams
+Default
+Other Clubs Asian
+
+[Formations titles]
+Kickers and captain
+Tactics
+Attack
+Defense
+Offensive
+Defensive
+Custom
+Normal
+With Ball
+Without Ball
+Change
+Predeterminate Formation
+Save Formation
+Load Formation
+Change position
+Num
+Players
+Pos
+Actual
+Name
+New rosters
+New formation
+Advanced Instructions
+Auto Options
+Init formation
+New tactic
+Offensive Strategy
+Defensive Strategy
+Custom Strategy
+Normal Formation
+With ball Formation
+Without ball Formation
+Attacking Styles
+Build Up
+Attacking Area
+Positioning
+Support Range
+Numbers in Attack
+Defensive Styles
+Containment Area
+Pressuring
+Defensive Line
+Compactness
+Numbers in Defense
+Long free kick
+Short free kick
+Second kicker
+Right corner
+Left corner
+Penalty
+Header
+Captain
+Auto subtitutions
+Auto change att/def level
+Auto offside trap
+Switch preset tactics
+Fluid
+
+[Tactics]
+Quick Counter
+Possession Game
+Long Pass
+Short Pass
+Wide
+Center
+Maintain Position
+Flexible
+Few
+Medium
+Many
+Frontline Pressure
+All Out Defense
+Middle
+Aggresive
+Conservative
+Before
+To late
+Off
+
+[Advanced instructions]
+No
+Hug the Touchline
+False No. 9
+False Full Backs
+Attacking Full Backs
+Wing Rotation
+Tiki-Taka
+Centring Targets
+Swarm the Box
+Deep Defensive Line
+Gegenpress
+Tight Marking
+Counter Target
+Defensive
+False Winger
+Wing Back
+
+[Kits titles]
+Shirt
+Pants
+Socks
+Captaincy
+Prints
+First kit
+Second kit
+Third kit
+Forth kit
+GK first kit
+Name
+Back number
+Chest number
+Leg number
+Base design
+Design
+Base Col.
+Colour
+Name position
+Name size
+Font type name
+Arc
+Back numb. Pos.
+Back number size
+Back number font
+Vertical layout
+Horizontal layout
+Size
+Show
+Show emblem
+Letters colours
+New kit
+Remove kit
+Import kit
+Big
+Small
+Kit
+Kit file
+Kits
+Neck shirt
+Design shirt
+Design pants
+Design socks
+Design captaincy
+No
+Above
+Below
+Center
+Right
+Left
+
+[Movements titles]
+Transfers
+Call to National
+Entry Competition
+Switch option
+Free agent
+Interchange
+Transfer
+Release
+Without release
+
+[Tournaments Titles]
+ID_Competition
+ID_Regulation
+Name
+Japanese name
+Default Name
+Continent
+ID_Knockout
+Teams type
+ID_Division 1
+ID_Division 2
+Tournament type
+Total teams
+Teams by group
+LeagueClassif.Type
+Sanction type
+Cup format
+Number of groups
+Classified teams
+Matches per team
+Competition
+Final competition
+3th place
+Edited
+Licensed
+Emblem
+Emblem file
+Edit emblem file
+Group
+Division 1
+Division 2
+Knockout
+Group name
+Ball
+Value
+Registered players
+Changes
+
+[Others Titles]
+ID_Stadium
+ID_Ball
+ID_Boots
+ID_Gloves
+Name
+Default Name
+Japanese name
+Continent
+Country
+Capacity
+Edited
+Licensed
+Colour
+Material
+
+[Languages]
+Languages
+Korean
+Japanese
+Latam Spanish
+English
+Turkish
+French
+Spanish
+Portuguese
+German
+Brazilian
+Dutch
+Traditional Chinese
+Swedish
+Greek
+Italian
+Simplified Chinese
+Russian
+Arabic
+US English
+Short Licensed
+Short Fake
+Database
+Empty
+
+[Groups - Leagues]
+Other European Teams
+Other Latin America Teams
+Other Clubs Asian
+Other Clubs Africa
+Europe
+Africa
+North And Central America
+South America
+Asia and Oceania
+Classic Teams
+Others
+Club International Cup
+UEFA Champions League
+UEFA Europa League
+UEFA Super Cup
+Copa Libertadores
+Copa Sudamericana
+Recopa Sudamericana
+AFC Champions League
+English League
+Italian League
+LIGA BBVA
+Ligue 1
+Eredivisie
+Portugal League
+England Cup
+Italian Cup
+Spanish Cup
+French Cup
+Netherlands Cup
+Portugal Cup
+Brazilian League
+PRIMERA DIVISIÓN
+Brazilian Cup
+Argentinean Cup
+International Cup
+European Qualifiers
+North and Central American Qualifiers
+South American Qualifiers
+Asia and Oceania Regional Qualifiers
+African Regional Qualifiers
+European Cup
+American Cup
+Asia-Oceanian Cup
+African Cup
+KONAMI League
+KONAMI Cup
+PEU League
+PLA League
+PAS League
+PEU Cup
+PLA Cup
+PAS Cup
+PEU Super Cup
+PLA Super Cup
+PAS Super Cup
+Internationa Friendly Match
+Training Match
+Testimonial
+English 2nd Division
+Liga Adelante
+Ligue 2
+Italian 2nd division
+Brazilian 2nd division
+English Promotion Play-off
+Liga Adelante Playoffs
+Italian Promotion Play-off
+English Super Cup
+Spanish Super Cup
+French Super Cup
+Italian Super Cup
+Dutch Super Cup
+Portuguese Super Cup
+Argentine Super Cup
+Bélgica League
+Rusia League
+Suiza League
+Turquía League
+Escocia League
+Dinamarca League
+Chile League
+Colombia League
+China League
+Thailand League
+Japan League
+
+
+
+
+
+
+
+[ID; country]
+0;None
+1;Afghanistan
+2;Bahrain
+3;Bangladesh
+4;Bhutan
+5;Brunei
+6;Cambodia
+7;China
+8;Hong Kong
+9;India
+10;Indonesia
+11;Iran
+12;Iraq
+13;Japan
+14;Jordan
+15;North Korea
+16;South Korea
+17;Kuwait
+18;Laos
+19;Lebanon
+20;Macao
+21;Malaysia
+22;Maldives
+23;Mongolia
+24;Myanmar
+25;Nepal
+26;Oman
+27;Pakistan
+28;Palestine
+29;Philippines
+30;Qatar
+31;Saudi Arabia
+32;Singapore
+33;Sri Lanka
+34;Syria
+36;Thailand
+37;Uae
+38;Vietnam
+39;Yemen
+40;Kyrgyz Republic
+41;Tajikistan
+42;Turkmenistan
+43;East Timor
+44;Algeria
+45;Angola
+46;Benin
+47;Botswana
+48;Burkina Faso
+49;Burundi
+50;Cameroon
+51;Cape Verde
+52;Central African Rep.
+53;Chad
+54;The Comoros
+55;Congo Dr
+56;Côte d'Ivoire
+57;Djibouti
+58;Egypt
+59;Equatorial Guinea
+60;Eritrea
+61;Ethiopia
+62;Gabon
+63;Republic of the Gambia
+64;Ghana
+65;Guinea
+66;Guinea-Bissau
+67;Kenya
+68;Lesotho
+69;Liberia
+70;Libya
+71;Madagascar
+72;Malawi
+73;Mali
+74;Mauritania
+75;Mauritius
+76;Morocco
+77;Mozambique
+78;Namibia
+79;Niger
+80;Nigeria
+81;Rwanda
+82;Sao Tomé and Principe
+83;Senegal
+84;Seychelles
+85;Sierra Leone
+86;Somalia
+87;South Africa
+88;Sudan
+89;Swaziland
+90;Tanzania
+91;Togo
+92;Tunisia
+93;Uganda
+94;Zambia
+95;Zimbabwe
+98;Congo
+100;Réunion
+103;Anguilla
+104;Antiqua and Barbuda
+105;Aruba
+106;The Bahamas
+107;Barbados
+108;Belize
+109;Bermuda
+110;Canada
+111;Cayman Islands
+112;Costa Rica
+113;Cuba
+114;Dominica
+115;Dominican Republic
+116;El Salvador
+117;Grenada
+118;Guadeloupe
+119;Guatemala
+120;Haiti
+121;Honduras
+122;Jamaica
+123;Martinique
+124;Mexico
+125;Montserrat
+126;Netherlands Antilles
+127;Nicaragua
+128;Panama
+129;Puerto Rico
+130;Saint Kitts and Nevis
+131;Saint Lucia
+132;St Vincent and Grenadines
+133;Trinidad and Tobago
+134;Turks and Caicos Is.
+135;United States
+136;British Virgin Islands
+137;U.S. Virgin Islands
+138;French Guiana
+139;Suriname
+140;Curaçao
+144;Argentina
+145;Bolivia
+146;Brazil
+147;Chile
+148;Colombia
+149;Ecuador
+150;Paraguay
+151;Peru
+152;Uruguay
+153;Venezuela
+159;Gyuana
+161;American Samoa
+162;Australia
+163;Cook Islands
+164;Fiji
+165;New Caledonia
+166;New Zealand
+167;Papua New Guinea
+168;Samoa
+169;Solomon Islands
+170;Tahiti
+171;Tonga
+172;Vanuatu
+176;Guam
+184;Palau
+189;Israel
+190;Turkey
+191;Albania
+192;Andorra
+193;Armenia
+194;Austria
+195;Azerbaijan
+196;Belarus
+197;Belgium
+198;Bosnia and Herzegovina
+199;Bulgaria
+200;Croatia
+201;Cyprus
+202;Czech Republic
+203;Denmark
+204;England
+205;Estonia
+206;Faroe Islands
+207;Finland
+208;France
+209;Georgia
+210;Germany
+211;Greece
+212;Hungary
+213;Iceland
+214;Ireland
+215;Italy
+216;Kazakhstan
+217;Latvia
+218;Liechtenstein
+219;Lithuania
+220;Luxembourg
+221;Macedonia
+222;Malta
+223;Moldova
+224;Netherlands
+225;Northern Ireland
+226;Norway
+227;Poland
+228;Portugal
+229;Romania
+230;Russia
+231;San Marino
+232;Scotland
+234;Slovakia
+235;Slovenia
+236;Spain
+237;Sweden
+238;Switzerland
+239;Ukraine
+240;Uzbekistan
+241;Wales
+245;Gibraltar
+250;Monaco
+260;Others
+298;Taiwan
+303;Serbia
+304;Montenegro
+310;Sint Maarten
+311;Kosovo
+312;South Sudan
+
+[Information Messages]
+Welcome to PES2020Editor.
+Loading...
+Saving...
+The data has been loaded successfully.
+The data has been saved successfully.
+Importing...
+Exporting...
+The data has been imported successfully.
+The data has been exported successfully.
+Executing action…
+Action performed correctly.
+Action not executed.
+
+[Questions Messages]
+Do you want to apply the changes?
+Do you want to cancel the changes?
+Do you want to save the changes?
+Do you want to close the file?
+Do you want to exit?
+Do you want to remove the selected item?
+Do you want to replace
+with Id:
+The team has players. Do you want to remove the team anyway?
+The competition has teams. Do you want to remove the competition anyway?
+Do you want to create the roster and formation?
+It is not possible to establish a connection, if you leave the user will be blocked. Do you want to exit anyway?
+
+[Error Messages]
+Error loading the file.
+Error saving the file.
+Error importing.
+Error exporting.
+PSD Failed!
+Error loading kits.
+
+[Warning Messages]
+Id is 0 or exist, you can't add row to table.
+It's not possible make the action. Comprobe the teams are different and the players been selected.
+It's not possible make the action. Comprobe the players been selected.
+It's not possible make the action. Comprobe a team been selected.
+It's not possible make the action. Comprobe the teams been selected.
+It's not possible make the action. The player is on a team.
+It's not possible make the action. The coach is on a team.
+It's not possible make the action. The stadium is on a team.
+It is not possible to make the action because there is a problem with your user. Please contact us.
+This option is disabled in this version.
+Connection failed.
+
+

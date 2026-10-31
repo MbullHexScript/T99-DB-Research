@@ -1,0 +1,1205 @@
+﻿//Português
+[Menu Principal]
+Inicial
+Jogadores
+Técnicos
+Times
+Transferência
+Convocados para Seleções
+Convocados
+Competições
+Regulamento Campeonatos
+Regulamento
+Estrutura dos Campeonatos
+Estrutura
+Estádios
+Bolas
+Chuteiras
+Luvas
+Avançado
+Modelo
+Apariências
+Atribuição jogadores
+Formações
+Uniformes
+Jogador
+Jogador - Aparência
+Jogadores do time
+Jogador- Aparência do time
+Time
+Modelo
+Formação
+Países
+Competição
+
+[Gerais]
+Salvar
+Fechar
+Sair
+Aplicar
+Cancelar
+Buscar
+Limpar
+Novo
+Clonar
+Remover
+Ajuda
+Teclas de atalho
+Editar
+Opções
+Idioma
+Sim
+Não
+Sim
+Não
+Aceitar
+Exportar
+Importar
+Todos
+Nenhum
+Dados gerais
+Índice
+Características
+Atualizar
+Copiar
+Colar
+Colar habilidades
+Colar aparência
+Ferramentas
+Caracteres especiais
+Vazio
+
+[Opções avançadas]
+Funções globais
+Jogadores repetidos
+Corrigir nomes
+Filtrar
+Aplicar
+Corrigir
+Ativar
+Selecionar todos
+Desselecionar todos
+Abrir arquivo
+Incluir
+Desativar
+Id genérico
+Nome genérico
+Id real
+Nome real
+Nome camisa
+Outras características
+Habilidades
+Habilidades GO
+Habilidades do jogador
+Estilos del juego COM
+Posición
+Time
+Nacionalidade
+Comp
+Estilo de jogo
+Reputação
+Idade
+Dado
+Operação
+Valor
+Verdadero
+Falso
+Resumo
+Ordenar por
+Critério
+Alterar Nomes
+Título
+Maiúsculas
+Cancelar filtrar
+Editar
+Jogadores falsos
+Altera ID
+Buscar todos
+Buscar jogadores repetidos
+Buscar jogadores únicos
+
+[Carregar arquivos]
+Carregar arquivos
+Carregar arquivo EDIT
+Carregar arquivos BIN
+Pasta
+Atribuir endereço
+
+[Títulos Jogadores]
+Dados básicos
+Geral/Habilidades
+Aparência
+Clubes
+Seleções
+Posições
+Habilidades
+Estilos de jogo COM
+Habilidades do jogador
+Comemorações
+Atributos
+Ajustes habilidades
+Estilos jogo COM
+Habilidades jog.
+
+[Dados Gerais do jogador]
+ID_Jogador
+ID_Jogador HEX
+Nome
+Nome japonês
+Camisa Clube
+Camisa Seleção
+Comentário
+País
+País 2
+Altura
+Peso
+Idade
+Pé
+Estilo de jogo
+Posição original
+Clube
+Seleção
+Editar jogador
+JOG
+Valorização geral
+Reputação
+Atitude
+Equipe juvenil
+Equipe proprietária
+Venc. contrato
+Venc. empréstimo
+Valor mercado
+Chamadas
+Em EDIT
+Mão
+Lenda
+Vencedor Bola de Ouro
+
+[Pé]
+D
+E
+Direita
+Esquerda
+
+[Posições]
+GO
+ZC
+LE
+LD
+VOL
+MLG
+ME
+MED
+MAT
+PTE
+PTD
+SA
+CA
+
+[Habilidades]
+Atenção Ofensiva
+Controlo de Bola
+Drible
+Posse de Bola Apertada
+Passe Rasteiro
+Passe Alto
+Finalização
+Cabeceamento
+Colocação de Remate
+Ondulação
+Velocidade
+Explosão
+Força de Remate
+Salto
+Contacto Físico
+Equilíbrio
+Resistência
+Atenção Defensiva
+Roubo de Bola
+Agressividade
+Atenção do GR
+Encaixe GR
+Alívio GR
+Reflexos GR
+Alcance GR
+Pior Pé Freq.
+Pior Pé Precisão
+Condição física
+Resistência Lesões
+
+[Habilidades especiais]
+Malandro
+Drible veloz
+Rápido como bala
+Corrida com gás
+Perito em bola longa
+Cruz. Antecip.
+Batedor Pro
+Pedalada simples
+Toque duplo
+Elástico
+360 graus
+Lençol
+Giro de 180°
+Puxada de letra
+Finta de letra
+Contr. habil. domín.
+Cabeçada
+Chute de longe
+Controle cavadinha
+Remate de Longe
+Chute com o peito pé
+Chutes com mergulho
+Chutes decolagem
+Finaliz. acrobática
+Toque de calcanhar
+Chute de primeira
+Passe de primeira
+Passe a Rasgar
+Passe na medida
+Cruzamento preciso
+Curva para fora
+De letra
+Passe sem olhar
+Passe aéreo baixo
+Pontapé Baixo GR
+Reposição alta GOL
+Arremesso longo
+Arr. longo do gol
+Especialista pênalti
+Pegador de pênaltis
+Malícia
+Marcação individual
+Volta para marcar
+Interceptação
+Afastamento acrobát.
+Liderança
+Super substituto
+Espírito guerreiro
+
+[Movimentos]
+Comemoração 1
+Comemoração 2
+Curv. das costas
+Mov. braços drible
+Curv. dos ombros
+Movimento dos braços
+Escanteio
+Falta
+Pênalti
+Drible
+
+[Estilos de Jogo]
+N/A
+Artilheiro
+Puxa marcação
+Homem de área
+Ala produtivo
+Clássica n° 10
+Jog. de infiltração
+Meia versátil
+Primeiro volante
+O destruidor
+Atacante surpresa
+Zagueiro ofensivo
+Zagueiro defensivo
+Pivô
+Armador criativo
+Provocador
+Goleiro ofensivo
+Goleiro defensivo
+Lateral móvel
+Especialista em cruz.
+Criador de jogadas
+Lateral atacante
+Jogador Sólido
+
+[Aparência]
+Rosto
+Editar rosto
+Editar cabelo
+Editar físico
+Editar uniforme
+Nova aparência
+Remover aparência
+Link
+Cor pele/Cabeça
+Olhos
+Sobrancelhas
+Nariz
+Boca
+Barba/Bigode
+Bochech./Queixo/Mand.
+Orelhas
+Penteado
+Físico
+Uniforme
+
+Cor da pele
+Altura do pescoço
+Largura do pescoço
+Profund. do pescoço
+Largura do rosto
+Tamanhoo do rosto
+
+Tipo pálpebra superior
+Tipo de pálpebra inferior
+Altura dos olhos
+Pos. horizontal olhos
+Cor da pupila
+Tamanho da pupila
+Alt. Pálpebra super. (I.)
+Larg. Pálpebra sup. (I.)
+Alt. Pálpebra super. (E.)
+Larg. Pálpebra sup. (E.)
+Alt. do interior dos olhos
+Pos. do int. dos olhos
+Altura exterior dos olhos
+Pos. do ext. dos olhos
+Alt. da pálpebra interior
+Profundidade dos olhos
+
+Frente
+Estilo de sobrancelhas
+Larg. das sobrancelhas
+Tipo de sobrancelhas
+Dens. das sobrancelhas
+Cor das sobrancelhas
+Alt. Int. sobrancelhas
+Largura da testa
+Alt. Ext. sobrancelhas
+Ancho de la sien
+Prof. das sobrancelhas
+
+Tipo de nariz
+Expres. das linhas
+Altura do nariz
+Tamanho da narina
+Largura do nariz
+Profund. ponta do nariz
+Profundidade do nariz
+
+Tipo de labio sup.
+Tipo de labio inf.
+Posição da boca
+Tamanho dos lábios
+Largura da boca
+Alt. dos lábios
+Profundidade da boca
+
+Tipo pelos fac.
+Cor da Barba/bigode
+Espessura
+
+Tipo de mejillas
+Tipo linha do pescoço
+Bochechas
+Altura do joelho
+Largura do joelho
+Altura da mandibula
+Linha da mandibula
+Profundidade do joelho
+
+Comprimento da orelha
+Largura d orelha
+Ángulo da orelha
+
+[Penteado]
+Predefinido
+Careca
+Muito curto
+Curto
+Médio
+Grande
+Especial
+Careca - Especial
+Liso
+Ondulado
+Frizado
+Dreadslocks
+Geral - Estilo
+Geral - Compridp
+Geral - Ondulado
+Geral - Variado
+Frente - Estilo
+Frente - Com listras
+Fre. - Crescim. Cabelo
+Frente - Frente Ampla
+Lado - Estilo
+Lado - Recortado
+Color do cabelo
+Acessórios
+Cor do acessório
+
+[Físico]
+Largura do Pescoço
+Tamanho do Pescoço
+Altura dos ombros
+Largura dos ombros
+Medida do peito
+Tamanho da cintura
+Comprimento braços
+Comprimento das coxas
+Comprim. panturrilhas
+Largura das pernas
+Largura dos braços
+
+[Uniforme]
+Chuteiras
+Luvas de goleiro
+Bandagem de Pulso
+Cor da Bandagem Pulso
+Atadura de Tornozelo
+Luvas
+Cor das luvas 
+Aquecedores
+Mangas
+Maguito
+Medias
+C. interior manga larga
+
+[Ver aparência]
+Não
+Sim
+Direita
+Esquerda
+Ambos
+Cor do uniforme
+Branco
+Preto
+Bege
+Para inverno
+Verão Não / Inverno Não
+Verão Não / Inverno Largo
+Verão Curto / Inverno Curto
+Verão Curto / Inverno Largo
+Por Dentro
+Por Fora
+Normal
+Curto
+Largo
+Medio
+Pescoço de cisne
+Seco
+Moicano
+Afro
+Dreadlocks
+Trançado
+Especial
+Tipo de Barba
+Curto curto
+Acima
+Abaixo
+Hacia atrás
+Não
+Esquierda 2
+Esquierda 1
+Centro
+Direita 1
+Direita 2
+Estreita
+Ampla
+Menos volumen
+Menos lateral
+Recortado
+
+[Títulos Técnicos]
+ID_Técnico
+Nome
+Nome Padrão
+Nome japonês
+País
+Editar nome
+Editar país
+Editar imagem
+Editar interno
+Imagem
+Arquivo de Imagem
+Adaptabilidade
+
+[Títulos Times]
+Times por grupo
+Outros
+Dados do time
+Nomes
+Cores
+Rivais
+Faixas
+Países
+Estádio
+Escudo
+Editar estádio
+Hino
+ID_Time
+Nome
+Abreviação
+País
+Comentário
+Técnico
+Nome técnico
+País técnico
+Novo técnico
+Time alimentador
+Time filho
+Rival
+Faixa
+Patrocinad.
+Arquivo patroc.
+Cor patrocin.
+Uniforme
+Atualizar ID
+Nome do estádio
+Arquivo de estádio
+Arquivo escudo
+Lic. jogadores
+Lic. Uniformes
+Time Clássico
+Seleções
+Falso
+Editar time
+Editar escudo
+Editar uniforme
+Ed. nome estádio
+Ed. arquivo estádio
+Ed. patrocinad.
+Ed. cor patr.
+Ed. arquivo patr.
+Cor do time
+Tipo de gramado
+Cor da grama
+Cor dos assentos
+Tipo de traves
+Design da rede
+Design rede do gol
+Cor rede do gol
+Tem um hino
+Hino pose estilo
+Jogad. cantando
+Hino pose ângulo
+N/A
+Mãos atrás das costas
+Mãos no coração
+Abraçado
+De mãos dadas
+N/A
+Não
+Sim
+N/A
+Em linha reta
+45 graus
+Não jogável
+Nenhum
+Outras equipes européias
+Outras equipes da América Latina
+Outros Clubes África
+Equipes Clássicos
+Equipes Padrão
+Other Clubs Asia
+
+[Títulos Formações]
+Cobradores e capitão
+Táticas
+Ataque
+Defesa
+Ofensivo
+Defensivo
+Padrão
+Normal
+Com Bola
+Sem Bola
+Mudar
+Formação predefinida
+Salvar formação
+Carregar formação
+Modificar posição
+Num
+Jogadores
+Pos
+Atual
+Nome
+Novo modelo
+Nova formação
+Instruções avançadas
+Opções automáticas
+Iniciar formação
+Nova tática
+Estratégia Ofensiva
+Estratégia Defensiva
+Estratégia Padrão
+Formação Normal
+Formação com Bola
+Formação sem Bola
+Estilos de ataque
+Criação
+Zona de ataque
+Posição
+Zona de exposição
+Intens. de ataque
+Estilos de defesa
+Área de contenção
+Pressão
+Linha defensiva
+Densidade
+Retranca
+Cob.falta longa
+Cob.falta curta
+Segundo cobrador
+Cob. escanteio dir.
+Cob escanteio esq.
+Pênalti
+Cabeceador
+Capitão
+Substituições auto.
+Ataque/Defesa auto
+Auto fora de jogo
+Mudar Táticas Pred.
+Fluída
+
+[Táticas]
+Contra-ataque
+Provocador
+Passe longo
+Passe curto
+Ampla
+Centro
+Manter formação
+Flexível
+Baixo
+Médio
+Alto
+Pressão na frente
+Retranca
+Meio campo
+Agressiva
+Tradicional
+Muito cedo
+Muito tarde
+Não
+
+[Instruções avançadas]
+Não
+Abraçar a Linha
+Falso N.º 9
+Falsos Laterais
+Laterais Ofensivos
+Rotação nas Alas
+Tiki-Taka
+Esperar Cruzamento
+Autocarro na Área
+Linha Defesa Baixa
+Contrapressão
+Marcação Apertada
+Alvo do Contragolpe
+Defensivo
+Falso Ala
+Ala Defensivo
+
+[Títulos Uniformes]
+Camisa
+Calções
+Meias
+Braçadeira
+Estampados
+1ro uniforme
+2do uniforme
+3ro uniforme
+4to uniforme
+1ro uniforme GO
+Nome
+Número nas costas
+Número no peito
+Número no calção
+Design base
+Design
+Cor base
+Cor
+Posição nome
+Tamanho nome
+Fonte nome
+Gola
+Posição dorsais
+Tamanho dorsais
+Fonte dorsais
+Disp. Vertical
+Disp. Horizontal
+Tamanho
+Mostrar
+Mostrar emblema
+Cor das letras
+Novo uniforme
+Excluir Uniforme
+Importar Uniforme
+Grande
+Pequeno
+Uniforme
+Arquivo uniforme
+Uniformes
+Pescoço
+Design Camiseta
+Design Pantaloneta
+Design Medias
+Design Brazalete
+Não
+Acima
+Abaixo
+Centro
+Direita
+Esquerda
+
+[Títulos Movimentos]
+Transferências
+Convocados pra as Seleções
+Estrutura dos Campeonatos
+Mudar opção
+Sem Agente
+Trocar
+Transferir
+Liberar
+Não liberar
+
+[Títulos compet.]
+ID_Campeonato
+ID_Regulação
+Nome
+Nome HEX
+Nome padrão
+Continente
+ID_Eliminatória
+Tipo de equipes
+ID_Divisão 1
+ID_Divisão 2
+Tipo Comp.
+Total Times
+Times por grupo
+Tipo Clasif. Liga
+Tipo sanção
+Formato copa
+Número de grupos
+Times classificados
+Jogos por time
+Competição
+Competição final
+3o lugar
+Editado
+Licenciado
+Emblema
+Arquivo Emblema
+Editar arquivo emblema
+Grupo
+Divisão 1
+Divisão 2
+Eliminatória
+Nome grupo
+Bola
+Valor
+Jogadores registrados
+Mudanças
+
+[Títulos Edição de outros]
+ID_Estádio
+ID_Bola
+ID_Chuteiras
+ID_Luvas
+Nome
+Nome padrão
+Nome HEX
+Continente
+País
+Capacidade
+Editado
+Licenciado
+Cor
+Material
+
+[Línguas]
+Línguas
+Coreano
+Japonês
+Espanhol latino
+Inglês
+Turco
+Francês
+Espanhol
+Português
+Alemão
+Brasileira
+Holandês
+Chinês tradic.
+Sueco
+Grego
+Italiano
+Chinês simplif.
+Russo
+Árabe
+Inglês dos US
+Abrev. Licenciado
+Abrev. Genérico
+Database
+Vazio
+
+[Grupos - Ligas]
+Other European Teams
+Other Latin America Teams
+Other Clubs Asia
+Other Clubs Africa
+Europe
+Africa
+North And Central America
+South America
+Asia e Oceania
+Classic Teams
+Others
+Club International Cup
+UEFA Champions League
+UEFA Europa League
+UEFA Super Cup
+Copa Libertadores
+Copa Sudamericana
+Recopa Sudamericana
+AFC Champions League
+English League
+Italian League
+LIGA BBVA
+Ligue 1
+Eredivisie
+Portugal League
+England Cup
+Italian Cup
+Spanish Cup
+French Cup
+Netherlands Cup
+Portugal Cup
+Brazilian League
+PRIMERA DIVISIÓN
+Brazilian Cup
+Argentinean Cup
+International Cup
+European Qualifiers
+North and Central American Qualifiers
+South American Qualifiers
+Asia and Oceania Regional Qualifiers
+African Regional Qualifiers
+European Cup
+American Cup
+Asia-Oceanian Cup
+African Cup
+KONAMI League
+KONAMI Cup
+PEU League
+PLA League
+PAS League
+PEU Cup
+PLA Cup
+PAS Cup
+PEU Super Cup
+PLA Super Cup
+PAS Super Cup
+Internationa Friendly Match
+Training Match
+Testimonial
+English 2nd Division
+Liga Adelante
+Ligue 2
+Italian 2nd division
+Brasil 2da división
+English Promotion Play-off
+Liga Adelante Playoffs
+Italian Promotion Play-off
+English Super Cup
+Spanish Super Cup
+French Super Cup
+Italian Super Cup
+Dutch Super Cup
+Portuguese Super Cup
+Argentine Super Cup
+Liga Bélgica
+Liga Rusia
+Liga Suiza
+Liga Turquía
+Liga Escocia
+Liga Dinamarca
+Liga Chile
+Liga Colombia
+Liga China
+Liga Tailandia
+Liga Japón
+
+
+
+
+
+
+
+[ID; país]
+0;None
+1;Afghanistan
+2;Bahrain
+3;Bangladesh
+4;Bhutan
+5;Brunei
+6;Cambodia
+7;China
+8;Hong Kong
+9;India
+10;Indonesia
+11;Iran
+12;Iraq
+13;Japan
+14;Jordan
+15;North Korea
+16;South Korea
+17;Kuwait
+18;Laos
+19;Lebanon
+20;Macao
+21;Malaysia
+22;Maldives
+23;Mongolia
+24;Myanmar
+25;Nepal
+26;Oman
+27;Pakistan
+28;Palestine
+29;Philippines
+30;Qatar
+31;Saudi Arabia
+32;Singapore
+33;Sri Lanka
+34;Syria
+36;Thailand
+37;Uae
+38;Vietnam
+39;Yemen
+40;Kyrgyz Republic
+41;Tajikistan
+42;Turkmenistan
+43;East Timor
+44;Algeria
+45;Angola
+46;Benin
+47;Botswana
+48;Burkina Faso
+49;Burundi
+50;Cameroon
+51;Cape Verde
+52;Central African Rep.
+53;Chad
+54;The Comoros
+55;Congo Dr
+56;Côte d'Ivoire
+57;Djibouti
+58;Egypt
+59;Equatorial Guinea
+60;Eritrea
+61;Ethiopia
+62;Gabon
+63;Republic of the Gambia
+64;Ghana
+65;Guinea
+66;Guinea-Bissau
+67;Kenya
+68;Lesotho
+69;Liberia
+70;Libya
+71;Madagascar
+72;Malawi
+73;Mali
+74;Mauritania
+75;Mauritius
+76;Morocco
+77;Mozambique
+78;Namibia
+79;Niger
+80;Nigeria
+81;Rwanda
+82;Sao Tomé and Principe
+83;Senegal
+84;Seychelles
+85;Sierra Leone
+86;Somalia
+87;South Africa
+88;Sudan
+89;Swaziland
+90;Tanzania
+91;Togo
+92;Tunisia
+93;Uganda
+94;Zambia
+95;Zimbabwe
+98;Congo
+100;Réunion
+103;Anguilla
+104;Antiqua and Barbuda
+105;Aruba
+106;The Bahamas
+107;Barbados
+108;Belize
+109;Bermuda
+110;Canada
+111;Cayman Islands
+112;Costa Rica
+113;Cuba
+114;Dominica
+115;Dominican Republic
+116;El Salvador
+117;Grenada
+118;Guadeloupe
+119;Guatemala
+120;Haiti
+121;Honduras
+122;Jamaica
+123;Martinique
+124;Mexico
+125;Montserrat
+126;Netherlands Antilles
+127;Nicaragua
+128;Panama
+129;Puerto Rico
+130;Saint Kitts and Nevis
+131;Saint Lucia
+132;St Vincent and Grenadines
+133;Trinidad and Tobago
+134;Turks and Caicos Is.
+135;United States
+136;British Virgin Islands
+137;U.S. Virgin Islands
+138;French Guiana
+139;Suriname
+140;Curaçao
+144;Argentina
+145;Bolivia
+146;Brazil
+147;Chile
+148;Colombia
+149;Ecuador
+150;Paraguay
+151;Peru
+152;Uruguay
+153;Venezuela
+159;Gyuana
+161;American Samoa
+162;Australia
+163;Cook Islands
+164;Fiji
+165;New Caledonia
+166;New Zealand
+167;Papua New Guinea
+168;Samoa
+169;Solomon Islands
+170;Tahiti
+171;Tonga
+172;Vanuatu
+176;Guam
+184;Palau
+189;Israel
+190;Turkey
+191;Albania
+192;Andorra
+193;Armenia
+194;Austria
+195;Azerbaijan
+196;Belarus
+197;Belgium
+198;Bosnia and Herzegovina
+199;Bulgaria
+200;Croatia
+201;Cyprus
+202;Czech Republic
+203;Denmark
+204;England
+205;Estonia
+206;Faroe Islands
+207;Finland
+208;France
+209;Georgia
+210;Germany
+211;Greece
+212;Hungary
+213;Iceland
+214;Ireland
+215;Italy
+216;Kazakhstan
+217;Latvia
+218;Liechtenstein
+219;Lithuania
+220;Luxembourg
+221;Macedonia
+222;Malta
+223;Moldova
+224;Netherlands
+225;Northern Ireland
+226;Norway
+227;Poland
+228;Portugal
+229;Romania
+230;Russia
+231;San Marino
+232;Scotland
+234;Slovakia
+235;Slovenia
+236;Spain
+237;Sweden
+238;Switzerland
+239;Ukraine
+240;Uzbekistan
+241;Wales
+245;Gibraltar
+250;Monaco
+260;Others
+298;Taiwan
+303;Serbia
+304;Montenegro
+310;Sint Maarten
+311;Kosovo
+312;South Sudan
+
+[Mensagens de informação]
+Bem vindo ao PES2020Editor.
+Carregando...
+Salvando...
+Os dados foram carregados corretamente.
+Os dados foram salvos corretamente.
+Importando...
+Exportando...
+Os dados foram importados corretamente.
+Os dados foram exportados corretamente.
+Executando ação.
+Ação executada corretamente.
+Ação não executada.
+
+[Mensagens de perguntas]
+Deseja aplicar as mudanças realizadas?
+Deseja aplicar as mudanças realizadas?
+Deseja salvar as mudanças realizadas?
+Deseja fechar o arquivo?
+Deseja sair do programa?
+Deseja excluir o item selecionado?
+Deseja substituir
+com Id:
+A equipe tem jogadores. Deseja remover a equipe mesmo assim?
+A competição tem equipes. Deseja remover a competição de qualquer maneira?
+Deseja criar o modelo e o formação?
+Não é possível estabelecer uma conexão, se você deixar o usuário será bloqueado. Deseja sair mesmo assim?
+
+[Mensagens de erro]
+Erro ao carregar o arquivo.
+Erro ao salvar o arquivo.
+Erro importando.
+Erro exportando.
+Erro ao carregar este PSD.
+Erro ao carregar uniformes.
+
+[Mensagens de aviso]
+O Id é igual a 0 ou já existe, portanto não pode ser adicionado às linhas
+Não é possível fazer a ação. Verifique se os times são diferentes e se os dois jogadores estão selecionados.
+Não é possível executar a ação. Verifique se os jogadores estão selecionados.
+Não é possível executar a ação. Verifique se um dispositivo está selecionado.
+Não é possível executar a ação. Verifique se o equipamento está selecionado.
+Não é possível executar a ação. O jogador pertence a um time.
+Não é possível executar a ação. O treinador pertence a um time.
+Não é possível executar a ação. O estádio pertence a um time.
+Não é possível executar a ação porque há um problema com seu usuário. Por favor, entre em contato conosco.
+Esta opção está desativada nesta versão.
+Falha na conexão.
+
+
